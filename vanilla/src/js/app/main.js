@@ -37,6 +37,10 @@ require(['jquery', 'app/calc'], function ($, calc) {
       large: 'images/die-6-large.png',
       small: 'images/die-6.png',
     },
+    7: {
+      large: 'images/noob-large.png',
+      small: 'images/noob.png',
+    }
   };
 
   function maskToFlavorText(mask) {
